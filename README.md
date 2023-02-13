@@ -10,6 +10,6 @@
 8. Go to the user profile settings by clicking the user name in the top right corner
 9. Go to the Two-factor authentication tab
 10. Click Set up an authenticator app
-10 . Install the Google Authenticator app on your mobile device and scan the QR code and put the code in the text box and click Verify
-11. Logout and Login again, and provide a valid username and password
-12. It will request the Authenticator code, Provide the code shown on the mobile app, and hit the Log in button.
+11. Install the Google Authenticator app on your mobile device and scan the QR code and put the code in the text box and click Verify
+12. Logout and Login again, and provide a valid username and password
+13. It will request the Authenticator code, Provide the code shown on the mobile app, and hit the Log in button.
